@@ -2,6 +2,8 @@
 <img src="images/banner.svg" alt="FTL Logistics Expense Tracker" width="100%">
 </p>
 
+> **Archived copy.** The maintained version of this project is [logistics-expense-tracker](https://github.com/tanmaymandal0207-cmyk/logistics-expense-tracker). This repository is kept for history and is no longer updated.
+
 <p align="center">
 <img alt="Excel" src="https://img.shields.io/badge/Excel-365-D9A441?labelColor=5C4033">
 <img alt="Structured tables" src="https://img.shields.io/badge/Structured%20tables-3-E8C878?labelColor=5C4033">
